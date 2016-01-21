@@ -1,0 +1,28 @@
+name: Robin Nuber Photography
+favicon: null
+layout_spectrum: 0.314368836581707
+typography_spectrum: 0.43277006200514734
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.08976254775188863
+  lightness: 0.16256977361626923
+  saturation: 0.6143543538637459
+  rhythmicContrast: 0.05127793224528432
+purpose: []
